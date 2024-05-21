@@ -61,9 +61,9 @@
 
 - Google Analytics, Google Ads, Salesforce, WordPress, HubSpot, WorkBoard, GenAI
 
-### Patents
+### [Patents](https://patents.google.com/?inventor=benini&assignee=aware&oq=assignee:aware+inventor:benini)
 
-- Six granted; biometrics authentication, liveness, identity analytics, blockchain (link)
+- Six granted; biometrics authentication, liveness, identity analytics, blockchain
 
 ### White Papers
 
