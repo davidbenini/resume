@@ -4,7 +4,7 @@
 - LinkedIn: [davidbenini](https://www.linkedin.com/in/davidbenini)
 - Location: Greater Boston
 
-## Hands-On Full-Stack Marketing Leader - Biometrics and VoiceTech
+## Hands-On, Full-Stack Marketing Leader
 
 **Depth in AI-Powered Voice Analysis, Conversational AI, Identity Security, Data Science**
 
