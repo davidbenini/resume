@@ -65,9 +65,21 @@
 
 - Six granted; biometrics authentication, liveness, identity analytics, blockchain
 
-### White Papers
+### [Portfolio](https://drive.google.com/drive/folders/14QfR5Ju0JhWrs4nCKHZJ4_5y62WMtK3g?usp=drive_link)
 
-- Responsible AI, deepfake detection, name science, enterprise security
+#### White Papers
+- [Responsible AI](https://drive.google.com/file/d/1a20ekz3EUVIMDKhE_I2W66ELsnnt3BSl/view?usp=drive_link)
+- [Name Science](https://drive.google.com/file/d/10aUVAt086Jsr81Zqk8iT5QquhQtoKgb9/view?usp=drive_link)
+- [Deepfake Detection](https://drive.google.com/file/d/1QQsvLeZfu8ohXR5GEGRFUX8TulOa19G2/view?usp=drive_link)
+- [Biometrics for Enterprise Security](https://drive.google.com/file/d/1yefI4Uju4ieXTVyupnznH-3lQ1ftUGDw/view?usp=drive_link)
+
+### Presentations 
+ - [Finovate 2022 Demonstration](https://finovate.com/videos/finovatefall-2022-id-rd/)
+ - [Demonstration on ABC News, Washington](https://wjla.com/news/local/scammers-cloning-voices-ai-technology-artificial-intelligence-scam-fake-or-real-fraud-detect-id-rd-audio-signal-recording-computer-generated-speech-analyze-biometrics-device)
+
+#### Animated Videos
+ - [Knomi mobile biometric authentication - consumer](https://vimeo.com/250653024)
+ - [Knomi mobile biometric authentication - enterprise](https://vimeo.com/322770856)
 
 ### Education
 
