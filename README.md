@@ -1,6 +1,6 @@
 # David Benini
 
-- Email: david@benini.io
+- Email: [david@benini.io](mailto:david@benini.io)
 - LinkedIn: [davidbenini](https://www.linkedin.com/in/davidbenini)
 - Location: Greater Boston
 
