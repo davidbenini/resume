@@ -6,7 +6,7 @@
 
 ## Hands-On, Full-Stack Marketing Leader
 
-**Technical Depth in AI-Powered Identity Security, Data Analytics, Voice Tech**
+**Technical Depth in AI-Powered Identity Security, Data Analytics, Conversational AI, Chat/VoiceTech**
 
 ### Achievement Highlights
 
