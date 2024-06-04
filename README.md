@@ -25,19 +25,20 @@
 
 - GTM strategy
 - Product marketing
+- Thought leadership
 - Product feature launches
-- Positioning and messaging
+- Branding, positioning, and messaging
 - Content development
 - Lead generation
 - Organic/paid demand gen
 - Website design and content
-- Branding and aesthetics
-- Events strategy planning
-- PR media analyst relations
+- Events strategy and planning
+- PR, media/analyst relations
 - Conference presentations
-- ABM sales enablement
-- OKR-driven performance
-- Quantitative modeling
+- Account-based management
+- Sales/partner enablement
+- KPI/OKR-driven performance
+- Quantitative business modeling
 
 ### Talents
 
@@ -101,7 +102,7 @@
 - Achieved YoY growth in MQLs and SQLs of 65% and 26% respectively in FY2023
 
 #### Quantifind Inc., Palo Alto (remote)
-*Quantifind’s AI-powered risk intelligence platform helps governments and banks detect bad actors.*
+*Quantifind’s AI-powered risk intelligence platform helps governments and banks detect bad actors and risky relationships.*
 
 **Vice President, Marketing  |  Nov 2020 - Mar 2022**
 - Conceived and executed strategy for a comprehensive full-funnel marketing program
@@ -143,7 +144,7 @@
 #### Systems Engineer – Strategic Product Support	| Applied Materials
  - Led teams to global silicon fabs of new ion implanter customers to improve productivity
 
-#### Linear Accelerator Engineer – Radiation Oncology Department | FairFax Hospital
+#### Linear Accelerator Engineer – Radiation Oncology Department | Fairfax Hospital
  - Assured uptime, and proper operation of $7 million worth of radiation oncology equipment
 
 #### Field Engineer – Oncology Care Systems  |  Siemens Healthineers
@@ -152,7 +153,7 @@
 #### Electrical Systems Intern – Nuclear Division	| Public Service Electric & Gas of New Jersey
  - Spent two summers working with engineering and electricians at Hope Creek nuclear plant
 
-### [Portfolio](https://drive.google.com/drive/folders/14QfR5Ju0JhWrs4nCKHZJ4_5y62WMtK3g?usp=drive_link)
+### [Portfolio](https://drive.google.com/drive/folders/14QfR5Ju0JhWrs4nCKHZJ4_5y62WMtK3g?usp=drive_link) and Highlights
 
 #### White Papers
 - [Responsible AI](https://drive.google.com/file/d/1a20ekz3EUVIMDKhE_I2W66ELsnnt3BSl/view?usp=drive_link)
