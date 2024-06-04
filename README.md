@@ -4,9 +4,9 @@
 - LinkedIn: [davidbenini](https://www.linkedin.com/in/davidbenini)
 - Location: Greater Boston
 
-## Hands-On, Full-Stack Marketing Leader
+## Hands-On, Full-Stack Marketing Leader - High-Growth AI-Powered Software/SaaS
 
-**Technical Depth in AI-Powered Identity Security, Data Analytics, Conversational AI, Chat/VoiceTech**
+**Technical Depth in Identity Security, Data Analytics, Conversational AI, Chat/VoiceTech**
 
 ### Achievement Highlights
 
