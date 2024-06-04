@@ -39,7 +39,7 @@
 - OKR-driven performance
 - Quantitative modeling
 
-- ### Talents
+### Talents
 
 - Building programs and scaling teams for high-growth companies from scratch as hire #1
 - Deriving key insights, strategy, and action plan from primary market reconnaissance
