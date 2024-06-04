@@ -61,19 +61,19 @@
 
 - Google Analytics, Google Ads, Salesforce, WordPress, HubSpot, WorkBoard, GenAI
 
-### Patents
+### [Patents](https://patents.google.com/?inventor=benini&assignee=aware&oq=assignee:aware+inventor:benini)
 
-[**System and method of capturing and producing biometric-matching quality**](https://patents.google.com/patent/US20180276446A1/en?inventor=benini&assignee=aware&oq=assignee:aware+inventor:benini&peid=619aebfd535a8%3Ac%3A7bd2217c)
+[**System and method of capturing and producing biometric-matching quality**](https://patentimages.storage.googleapis.com/01/23/90/7de7652230be64/US20180276446A1.pdf)
 
-[**Biometric verification of a blockchain database transaction contributor**](https://patents.google.com/patent/US11108546B2/en?inventor=benini&assignee=aware&oq=assignee:aware+inventor:benini&peid=619aebfdfe408%3Ad%3A7a2e8b3f)
+[**Biometric verification of a blockchain database transaction contributor**](https://patentimages.storage.googleapis.com/fd/ae/0f/aa8c8e94c12ba0/US11108546.pdf)
 
-[**Biometric identification and verification**](https://patents.google.com/?inventor=benini&assignee=aware&oq=assignee:aware+inventor:benini#)
+[**Biometric identification and verification**](https://patentimages.storage.googleapis.com/a1/65/17/f0dd3eda195c77/US20170228608A1.pdf)
 
-[**Decentralized biometric identity authentication**](https://patents.google.com/?inventor=benini&assignee=aware&oq=assignee:aware+inventor:benini#)
+[**Decentralized biometric identity authentication**](https://patentimages.storage.googleapis.com/d9/81/c3/00fbccfaa81a4b/EP3536002B1.pdf)
 
-[**Relationship detection within biometric match results candidates**](https://patents.google.com/?inventor=benini&assignee=aware&oq=assignee:aware+inventor:benini#)
+[**Relationship detection within biometric match results candidates**](https://patentimages.storage.googleapis.com/9e/fd/f6/99174fc4ebdc74/US11250078.pdf)
 
-[**Analysis of reflections of projected light in varying colors, brightness**](https://patents.google.com/?inventor=benini&assignee=aware&oq=assignee:aware+inventor:benini#)
+[**Analysis of reflections of projected light in varying colors, brightness**](https://patentimages.storage.googleapis.com/30/e8/b8/1be6ef6a908ac4/US10599912.pdf)
 
 ### Education
 
