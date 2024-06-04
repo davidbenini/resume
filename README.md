@@ -89,7 +89,7 @@
 ### Professional Experience
 
 #### ID R&D, a Mitek Systems Company, New York (remote)
-_ID R&D’s AI software detects deepfakes and clones to secure identity for genAI/convAI applications.
+*ID R&D’s AI software detects deepfakes and clones to secure identity for genAI/convAI applications.*
 
 **Vice President, Marketing**  
 *March 2022 - Nov 2023*
@@ -102,7 +102,7 @@ _ID R&D’s AI software detects deepfakes and clones to secure identity for genA
 - Achieved YoY growth in MQLs and SQLs of 65% and 26% respectively in FY2023
 
 #### Quantifind Inc., Palo Alto (remote)
-_Quantifind’s AI-powered risk intelligence platform helps governments and banks detect bad actors.
+*Quantifind’s AI-powered risk intelligence platform helps governments and banks detect bad actors.*
 
 **Vice President, Marketing**  
 *Nov 2020 - Mar 2022*
@@ -114,7 +114,7 @@ _Quantifind’s AI-powered risk intelligence platform helps governments and bank
 - Established demand gen, email campaigning, events participation, sales enablement
 
 #### Aware Inc., Greater Boston
-Aware (NASDAQ: AWRE) leveraged a small division to transform a telecom IP company into a biometrics industry leader with 15X revenue growth and tens of millions of end-users globally.
+*Aware (NASDAQ: AWRE) leveraged a small division to transform a telecom IP company into a biometrics industry leader with 15X revenue growth and tens of millions of end-users globally.*
 
 **Vice President, Marketing & Product | Aware Inc.**  
 *2017 - 2020*
@@ -138,7 +138,7 @@ Aware (NASDAQ: AWRE) leveraged a small division to transform a telecom IP compan
 - Performed rollout of Salesforce.com and drove a 100% increase in web leads
 - Formed industry relationships that catalyzed several of our largest projects
 
-**Director, Marketing – Aware Inc.**  
+**Director, Marketing | Aware Inc.**  
 *2003 - 2009*
 - Rebuilt marketing programs in response to rapid growth of demand for biometrics in public sector
 - Defined product marketing roadmap, expanded content, and redesigned website
