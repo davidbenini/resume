@@ -6,7 +6,7 @@
 
 ## Hands-On, Full-Stack Marketing Leader - High-Growth AI-Powered Software/SaaS
 
-**Technical Depth in Identity Security, Data Analytics, Conversational AI, Chat/VoiceTech**
+**Technical Depth in Identity Security, Data Analytics, Conversational AI, Chat/Voice Tech**
 
 ### Achievement Highlights
 
@@ -15,10 +15,10 @@
 - Supercharged product marketing, PR, field marketing, and content output to launch 3 AI products to protect conversational AI applications from deepfakes, voice clones, and spoofs
 
 **VP Marketing, Quantifind Inc. | AI-powered Risk Intelligence SaaS Fintech**
-- Built a full-stack program and team as the first marketing hire; branding, lead gen, product marketing, new website, data science content, sales enablement, tech stack
+- Built a full-funnel program and team as the first marketing hire; branding, lead gen, product marketing, new website, data science content, sales enablement, PR, tech stack
 
 **VP Marketing & Product, Aware Inc. | AI-powered Biometrics Software/SaaS**
-- Led marketing from the birth of the technology through multiple phases of hypergrowth and mass-market adoption; grew $1M product line to a NASDAQ-listed biometrics leader
+- Led marketing from industry nascency through multiple phases of hypergrowth and mass-market adoption; grew $1M product line to a NASDAQ-listed biometrics leader
 - Drove 15X revenue growth and 20+ product introductions with an ROI-focused team of six
 
 ### Skills
@@ -26,7 +26,7 @@
 - GTM strategy
 - Product marketing
 - Thought leadership
-- Product feature launches
+- Product, feature launches
 - Branding, positioning, and messaging
 - Content development
 - Lead generation
@@ -35,10 +35,11 @@
 - Events strategy and planning
 - PR, media/analyst relations
 - Conference presentations
-- Account-based management
+- Account-based marketing
 - Sales/partner enablement
+- Tech stack optimization
 - KPI/OKR-driven performance
-- Quantitative business modeling
+- Quantitative business modeling and forecasting
 
 ### Talents
 
@@ -51,16 +52,20 @@
 - Leveraging a data-driven approach to assessing performance and adapting tactics
 
 ### Technologies
-
-- Responsible AI, voice biometrics, conversational AI, security, voice clone detection
+- AI: Generative AI, Responsible AI, Conversational AI, AI Security
+- Biometrics: facial recognition, keystroke dynamics, behavioral biometrics, voice verification
+- Fraud detection: deepfake detection, voice clones, liveness detection, document fraud, spoofing
+- Data analytics: identity resolution, risk intelligence, knowledge graphs, relationship detection
+- Security: identity verification, mobile authentication, PKI, KYC/AML, digital onboarding
+- Blockchain: security, authentication
 
 ### Verticals
 
-- Enterprise, healthcare, financial services, government, telecom, software
+- Enterprise, financial services, government, healthcare, software, telecom
 
 ### Tools
 
-- Google Analytics, Google Ads, Salesforce, WordPress, HubSpot, WorkBoard, GenAI
+- Google Analytics, Google Ads, Salesforce, WordPress, HubSpot, WorkBoard, Jira, GenAI
 
 ### [Patents](https://patents.google.com/?inventor=benini&assignee=aware&oq=assignee:aware+inventor:benini)
 
@@ -89,8 +94,8 @@
 
 ### Professional Experience
 
-#### ID R&D, a Mitek Systems Company, New York (remote)
-*ID R&D’s AI software detects deepfakes and clones to secure identity for genAI/convAI applications.*
+#### ID R&D, a Mitek Company, New York (remote)
+*ID R&D is the AI innovation division of Mitek, a fraud detection fintech with 8000 customers. ID R&D's leverages AI to authenticate users and   detects deepfakes and clones towards securing genAI-powered applications of conversational AI.*
 
 **Vice President, Marketing  |  March 2022 - Nov 2023**
 - Executed multiple product and feature launches for AI-powered fraud detection
@@ -102,7 +107,7 @@
 - Achieved YoY growth in MQLs and SQLs of 65% and 26% respectively in FY2023
 
 #### Quantifind Inc., Palo Alto (remote)
-*Quantifind’s AI-powered risk intelligence platform helps governments and banks detect bad actors and risky relationships.*
+*Quantifind’s AI-powered risk intelligence and investigation platform helps governments and banks detect bad actors and risky relationships.*
 
 **Vice President, Marketing  |  Nov 2020 - Mar 2022**
 - Conceived and executed strategy for a comprehensive full-funnel marketing program
@@ -113,7 +118,7 @@
 - Established demand gen, email campaigning, events participation, sales enablement
 
 #### Aware Inc., Greater Boston
-*Aware (NASDAQ: AWRE) leveraged a small division to transform a telecom IP company into a biometrics industry leader with 15X revenue growth and tens of millions of end-users globally.*
+*Aware (NASDAQ: AWRE) leveraged a handful of biometrics SDKs to transform a telecom silicon IP company into a biometrics industry leader with 25 SDK, API, and SaaS products, 15X revenue growth and tens of millions of end-users globally.*
 
 **Vice President, Marketing & Product | 2017 - 2020**
 - Executed go-to-market of our most advanced product, a biometric SaaS platform
@@ -134,24 +139,36 @@
 - Performed rollout of Salesforce.com and drove a 100% increase in web leads
 - Formed industry relationships that catalyzed several of our largest projects
 
-**Director, Marketing | 2003 - 2009**
+**Director, Marketing (Biometrics and Healthcare Imaging Group) | 2003 - 2009**
 - Rebuilt marketing programs in response to rapid growth of demand for biometrics in public sector
 - Defined product marketing roadmap, expanded content, and redesigned website
 - Supported growth of sales staff from one to ten; built sales enablement program
 - Designed new website; wrote all product collateral, white papers, and sales content
 
+**Director, Product Marketing (Telecom Silicon IP Group) |	2001 - 2003**
+-	Conducted a multi-faceted marketing campaign evangelizing "video over DSL", which included editing a 50-page industry-wide white paper and speaking at many events
+-	Led marketing efforts of a coalition of vendors to standardize voice-over-DSL technology; the effort led to a $1 million technology license 
+-	Gave multiple presentations at industry events, including at the largest US telecom event
+-	Contributed to the drafting of several IP licensing contracts 
+
+**DSL Marketing Manager (Telecom Silicon IP Group) |	1999 - 2001** 
+- Generated data sheets, product web pages, and use case white papers about DSL chipset technology
+- Developed a quantitative "market opportunity assessment” framework used to prioritize R&D projects for commercialization, including strategic fit evaluation, profitability, and risk analysis
+
 ### Early Career
 #### Systems Engineer – Strategic Product Support	| Applied Materials
- - Led teams to global silicon fabs of new ion implanter customers to improve productivity
+- Led engineering teams to customer fabs in Scotland, Japan, Taiwan, and Germany to improve productivity, knowledge transfer, process qualification, and training activities; program was cited as primary contributor to number-one customer satisfaction ranking by VLSI Research
+- Represented  Customer Support Department on product development team for newest implanter
 
 #### Linear Accelerator Engineer – Radiation Oncology Department | Fairfax Hospital
- - Assured uptime, and proper operation of $7 million worth of radiation oncology equipment
+- Assured minimal downtime and proper calibration and operation of $7 million worth of capital equipment
+- Created a software-based PM system that helped to significantly reduce unscheduled downtime
 
 #### Field Engineer – Oncology Care Systems  |  Siemens Healthineers
- - Maintained linear accelerators and fostered customer relationships at cancer centers
+- Maintained linear accelerators and fostered customer relationships at cancer centers
 
 #### Electrical Systems Intern – Nuclear Division	| Public Service Electric & Gas of New Jersey
- - Spent two summers working with engineering and electricians at Hope Creek nuclear plant
+- Spent two summers working with engineering and electricians at Hope Creek nuclear plant
 
 ### [Portfolio](https://drive.google.com/drive/folders/14QfR5Ju0JhWrs4nCKHZJ4_5y62WMtK3g?usp=drive_link) and Highlights
 
