@@ -6,18 +6,22 @@
 
 ## Hands-On, Full-Stack Marketing Leader - High-Growth AI-Powered Software/SaaS
 
-**Technical Depth in Identity Security, Data Analytics, Conversational AI, Chat/Voice Tech**
+**Go-to-Market Specialist     |     Technical Depth in Identity Security, Data Analytics, Conversational AI, Chat/Voice Tech**
+
 
 ### Achievement Highlights
 
-**VP Marketing, ID R&D | genAI/convAI Identity Security**
+**COO/CMO (Fractional), Semi-Stealth Startup  |  AI agent for GTM strategy automation and agility**
+- Developing and executing GTM strategy and tactics in preparation for first product launch
+
+**VP Marketing, ID R&D | genAI/convAI identity security**
 - Overhauled lead generation and metrics; increased MQLs by 100%, SQLs and ARR by 50%
 - Supercharged product marketing, PR, field marketing, and content output to launch 3 AI products to protect conversational AI applications from deepfakes, voice clones, and spoofs
 
-**VP Marketing, Quantifind Inc. | AI-powered Risk Intelligence SaaS Fintech**
+**VP Marketing, Quantifind Inc. | AI-powered risk intelligence SaaS fintech**
 - Built a full-funnel program and team as the first marketing hire; branding, lead gen, product marketing, new website, data science content, sales enablement, PR, tech stack
 
-**VP Marketing & Product, Aware Inc. | AI-powered Biometrics Software/SaaS**
+**VP Marketing & Product, Aware Inc. | AI-powered biometrics software/SaaS**
 - Led marketing from industry nascency through multiple phases of hypergrowth and mass-market adoption; grew $1M product line to a NASDAQ-listed biometrics leader
 - Drove 15X revenue growth and 20+ product introductions with an ROI-focused team of six
 
@@ -51,7 +55,7 @@
 - Implementing pipeline-driven ABM and sales/partner enablement initiatives
 - Leveraging a data-driven approach to assessing performance and adapting tactics
 
-### Technologies
+### Expertise
 - AI: Generative AI, Responsible AI, Conversational AI, AI Security
 - Biometrics: facial recognition, keystroke dynamics, behavioral biometrics, voice verification
 - Fraud detection: deepfake detection, voice clones, liveness detection, document fraud, spoofing
@@ -65,7 +69,7 @@
 
 ### Tools
 
-- Google Analytics, Google Ads, Salesforce, WordPress, HubSpot, WorkBoard, Jira, GenAI
+- Google Analytics, Google Ads, Salesforce, WordPress, HubSpot, WorkBoard, Jira, LLMs
 
 ### [Patents](https://patents.google.com/?inventor=benini&assignee=aware&oq=assignee:aware+inventor:benini)
 
@@ -93,6 +97,16 @@
 - Physics-centric; 400-level coursework in lasers, optics, signal processing, semiconductors
 
 ### Professional Experience
+
+#### Semi-Stealth Startup, Boston ####
+*Pre-seed company bringing to market a PLG AI agents to formulate an agile GTM strategy and align teams*
+
+**COO/CMO (Fractional)	July 2024 - present**
+-	Developed go-to-market and launch plan for this company’s first major product launch
+-	Authored positioning strategy and messaging content for website, deck, and social media
+-	Serve as a voice of customer towards product modifications and feature roadmap
+-	Defined marketing and growth technology stack requirements and integrations
+-	Wrote foundational thought leadership white paper defining “Agile GTM”
 
 #### ID R&D, a Mitek Company, New York (remote)
 *ID R&D is the AI innovation division of Mitek, a fraud detection fintech with 8000 customers. ID R&D's leverages AI to authenticate users and   detects deepfakes and clones towards securing genAI-powered applications of conversational AI.*
