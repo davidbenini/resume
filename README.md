@@ -6,7 +6,7 @@
 
 ## Hands-On, Full-Stack Marketing Leader - High-Growth AI-Powered Software/SaaS
 
-**Go-to-Market Specialist     |     Technical Depth in Identity Security, Data Analytics, Conversational AI, Chat/Voice Tech**
+**Go-to-Market Strategy  --  Building Teams from Scratch  --  Technical Depth in Identity Security, Data Analytics, Conversational AI, Chat/Voice Tech**
 
 
 ### Achievement Highlights
