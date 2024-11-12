@@ -191,6 +191,7 @@
 - [Name Science](https://drive.google.com/file/d/10aUVAt086Jsr81Zqk8iT5QquhQtoKgb9/view?usp=drive_link)
 - [Deepfake Detection](https://drive.google.com/file/d/1QQsvLeZfu8ohXR5GEGRFUX8TulOa19G2/view?usp=drive_link)
 - [Biometrics for Enterprise Security](https://drive.google.com/file/d/1yefI4Uju4ieXTVyupnznH-3lQ1ftUGDw/view?usp=drive_link)
+- [Document Liveness Detection](https://drive.google.com/file/d/11rDi96ozObghnN-csNMKJ-xo26xjf3W5/view?usp=drive_link)
 
 ### Presentations 
  - [Finovate 2022 Demonstration](https://finovate.com/videos/finovatefall-2022-id-rd/)
