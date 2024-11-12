@@ -6,8 +6,9 @@
 
 ## Hands-On, Full-Stack Marketing Leader - High-Growth AI-Powered Software/SaaS
 
-**Go-to-Market Strategy  --  Building Teams from Scratch  --  Technical Depth in Identity Security, Data Analytics, Conversational AI, Chat/Voice Tech**
+**0>1 Go-to-Market Strategy and Execution  --  Product Marketing Specialist**
 
+**Technical Depth in Responsible AI, Data Analytics, Conversational AI, Chat/Voice Tech**
 
 ### Achievement Highlights
 
@@ -184,7 +185,7 @@
 #### Electrical Systems Intern – Nuclear Division	| Public Service Electric & Gas of New Jersey
 - Spent two summers working with engineering and electricians at Hope Creek nuclear plant
 
-### <a id="Portfolio"></a>[Portfolio](https://drive.google.com/drive/folders/14QfR5Ju0JhWrs4nCKHZJ4_5y62WMtK3g?usp=drive_link) and Highlights
+### <a id="Portfolio"></a>[Portfolio](https://drive.google.com/drive/folders/14QfR5Ju0JhWrs4nCKHZJ4_5y62WMtK3g?usp=drive_link)
 
 #### White Papers
 - [Responsible AI](https://drive.google.com/file/d/1a20ekz3EUVIMDKhE_I2W66ELsnnt3BSl/view?usp=drive_link)
@@ -193,7 +194,7 @@
 - [Biometrics for Enterprise Security](https://drive.google.com/file/d/1yefI4Uju4ieXTVyupnznH-3lQ1ftUGDw/view?usp=drive_link)
 - [Document Liveness Detection](https://drive.google.com/file/d/11rDi96ozObghnN-csNMKJ-xo26xjf3W5/view?usp=drive_link)
 
-### Presentations 
+#### Presentations 
  - [Finovate 2022 demonstration](https://finovate.com/videos/finovatefall-2022-id-rd/)
  - [Fraud detection Demonstration on ABC News, Washington](https://wjla.com/news/local/scammers-cloning-voices-ai-technology-artificial-intelligence-scam-fake-or-real-fraud-detect-id-rd-audio-signal-recording-computer-generated-speech-analyze-biometrics-device)
  - [Decoding the voice clones - ABC News, Washington](https://wjla.com/news/local/artificial-intelligence-ai-phone-scams-cloning-decode-washington-dc-conference-panel-id-r-and-d-dangers-security-concerns-voice-biometrics-fingerprint-bank-accounts-medical-records-personal-information-chatgpt-scammers)
