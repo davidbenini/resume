@@ -194,8 +194,10 @@
 - [Document Liveness Detection](https://drive.google.com/file/d/11rDi96ozObghnN-csNMKJ-xo26xjf3W5/view?usp=drive_link)
 
 ### Presentations 
- - [Finovate 2022 Demonstration](https://finovate.com/videos/finovatefall-2022-id-rd/)
- - [Demonstration on ABC News, Washington](https://wjla.com/news/local/scammers-cloning-voices-ai-technology-artificial-intelligence-scam-fake-or-real-fraud-detect-id-rd-audio-signal-recording-computer-generated-speech-analyze-biometrics-device)
+ - [Finovate 2022 demonstration](https://finovate.com/videos/finovatefall-2022-id-rd/)
+ - [Fraud detection Demonstration on ABC News, Washington](https://wjla.com/news/local/scammers-cloning-voices-ai-technology-artificial-intelligence-scam-fake-or-real-fraud-detect-id-rd-audio-signal-recording-computer-generated-speech-analyze-biometrics-device)
+ - [Decoding the voice clones - ABC News, Washington](https://wjla.com/news/local/artificial-intelligence-ai-phone-scams-cloning-decode-washington-dc-conference-panel-id-r-and-d-dangers-security-concerns-voice-biometrics-fingerprint-bank-accounts-medical-records-personal-information-chatgpt-scammers)
+
 
 #### Animated Videos
  - [Knomi mobile biometric authentication - consumer](https://vimeo.com/250653024)
