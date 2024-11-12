@@ -184,7 +184,7 @@
 #### Electrical Systems Intern – Nuclear Division	| Public Service Electric & Gas of New Jersey
 - Spent two summers working with engineering and electricians at Hope Creek nuclear plant
 
-### [Portfolio](https://drive.google.com/drive/folders/14QfR5Ju0JhWrs4nCKHZJ4_5y62WMtK3g?usp=drive_link) and Highlights
+### <a id="Portfolio"></a>[Portfolio](https://drive.google.com/drive/folders/14QfR5Ju0JhWrs4nCKHZJ4_5y62WMtK3g?usp=drive_link) and Highlights
 
 #### White Papers
 - [Responsible AI](https://drive.google.com/file/d/1a20ekz3EUVIMDKhE_I2W66ELsnnt3BSl/view?usp=drive_link)
