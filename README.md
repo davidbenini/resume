@@ -4,27 +4,31 @@
 - LinkedIn: [davidbenini](https://www.linkedin.com/in/davidbenini)
 - Location: Greater Boston
 
-## Hands-On, Full-Stack Marketing Leader - High-Growth AI-Powered Software/SaaS
-
-**0>1 Go-to-Market Strategy and Execution  --  Product Marketing Specialist**
+## Hands-On, Full-Stack Marketing Leader - Go-to-Market Strategy and Execution
+### High-Growth AI-Powered Software/SaaS
 
 **Technical Depth in Responsible AI, Data Analytics, Conversational AI, Chat/Voice Tech**
 
 ### Achievement Highlights
 
 **COO/CMO (Fractional), Semi-Stealth Startup  |  AI agent for GTM strategy automation and agility**
-- Developing and executing GTM strategy and tactics in preparation for first product launch
+- Developed GTM strategy and tactics in preparation for product launch of AI GTM Agent
 
 **VP Marketing, ID R&D | genAI/convAI identity security**
-- Overhauled lead generation and metrics; increased MQLs by 100%, SQLs and ARR by 50%
-- Supercharged product marketing, PR, field marketing, and content output to launch 3 AI products to protect conversational AI applications from deepfakes, voice clones, and spoofs
+-	Launched three AI identity security products that protect from fraud, deepfakes, and clones
+-	Drove 50% ARR increase with leveled-up product marketing, PR, field marketing, content 
+-	Increased MQLs by 100%, SQLs by 50% with overhauled lead generation and metrics
+
 
 **VP Marketing, Quantifind Inc. | AI-powered risk intelligence SaaS fintech**
-- Built a full-funnel program and team as the first marketing hire; branding, lead gen, product marketing, new website, data science content, sales enablement, PR, tech stack
+- Built a full-stack marketing program and team from scratch as the first marketing hire
+- Rebranded and launched AI data science platform for entity risk AML/KYC intelligence
+
 
 **VP Marketing & Product, Aware Inc. | AI-powered biometrics software/SaaS**
-- Led marketing from industry nascency through multiple phases of hypergrowth and mass-market adoption; grew $1M product line to a NASDAQ-listed biometrics leader
-- Drove 15X revenue growth and 20+ product introductions with an ROI-focused team of six
+- Led marketing from biometrics nascency through hypergrowth and mass-market adoption
+- Grew $1M product line to a NASDAQ-listed biometrics leader with 15X revenue growth 
+- Successfully launched 20+ B2B and B2G products with an ROI-focused team of six
 
 ### Skills
 
@@ -93,7 +97,7 @@
 - Innovation management, strategic marketing, new product development, quantitative analysis
 - Statistics teaching assistant
 
-#### Bachelor of Science, electrical engineering
+#### Bachelor of Science, Electrical Engineering
 **Pennsylvania State University**
 - Physics-centric; 400-level coursework in lasers, optics, signal processing, semiconductors
 
@@ -147,26 +151,26 @@
 - Achieved 100% increase in web leads in three years through digital marketing initiatives
 - Granted a patent for biometrics-based key management in a blockchain system
 
-**Senior Director, Marketing | 2009 - 2013**
+**Senior Director, Marketing**
 - Led transition of marketing program following $100M divestment of primary telecom IP business
 - Executed marketing efforts through growth of biometrics product portfolio from 5 to 15
 - Wrote $100M+ worth in proposals including largest ever proposed and ever won
 - Performed rollout of Salesforce.com and drove a 100% increase in web leads
 - Formed industry relationships that catalyzed several of our largest projects
 
-**Director, Marketing (Biometrics and Healthcare Imaging Group) | 2003 - 2009**
+**Director, Marketing (Biometrics and Healthcare Imaging Group)**
 - Rebuilt marketing programs in response to rapid growth of demand for biometrics in public sector
 - Defined product marketing roadmap, expanded content, and redesigned website
 - Supported growth of sales staff from one to ten; built sales enablement program
 - Designed new website; wrote all product collateral, white papers, and sales content
 
-**Director, Product Marketing (Telecom Silicon IP Group) |	2001 - 2003**
+**Director, Product Marketing (Telecom Silicon IP Group)**
 -	Conducted a multi-faceted marketing campaign evangelizing "video over DSL", which included editing a 50-page industry-wide white paper and speaking at many events
 -	Led marketing efforts of a coalition of vendors to standardize voice-over-DSL technology; the effort led to a $1 million technology license 
 -	Gave multiple presentations at industry events, including at the largest US telecom event
 -	Contributed to the drafting of several IP licensing contracts 
 
-**DSL Marketing Manager (Telecom Silicon IP Group) |	1999 - 2001** 
+**DSL Marketing Manager (Telecom Silicon IP Group)** 
 - Generated data sheets, product web pages, and use case white papers about DSL chipset technology
 - Developed a quantitative "market opportunity assessment” framework used to prioritize R&D projects for commercialization, including strategic fit evaluation, profitability, and risk analysis
 
