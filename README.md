@@ -7,7 +7,7 @@
 ## Hands-On, Full-Stack Marketing Leader - Go-to-Market Strategy and Execution
 ### High-Growth AI-Powered Software/SaaS
 
-**Technical Depth in Responsible AI, Data Analytics, Conversational AI, Chat/Voice Tech**
+**Technical Depth in Responsible AI, Identity Security, Data Analytics, Conversational AI, Chat/Voice Tech**
 
 ### Achievement Highlights
 
