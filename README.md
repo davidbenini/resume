@@ -7,28 +7,27 @@
 ## Hands-On, Full-Stack Marketing Leader - Go-to-Market Strategy and Execution
 ### High-Growth AI-Powered Software/SaaS
 
-**Technical Depth in Responsible AI, Identity Security, Data Analytics, Conversational AI, Chat/Voice Tech**
+**Technical Depth in Generative AI, Identity Security, Data Analytics, Conversational AI, Chat/Voicebot Tech**
 
 ### Achievement Highlights
 
-**COO/CMO (Fractional), Semi-Stealth Startup  |  AI agent for GTM strategy automation and agility**
-- Developed GTM strategy and tactics in preparation for product launch of AI GTM Agent
+**COO/CMO (Fractional), Semi-Stealth Startup  |  AI GTM for GTM strategy automation and agility**
+- Executing GTM strategy and tactics in preparation for 25Q1 product launch of AI GTM GPT
+- Conceived and wrote foundational thought leadership white paper defining “Agile GTM Strategy”
 
-**VP Marketing, ID R&D | genAI/convAI identity security**
--	Launched three AI identity security products that protect from fraud, deepfakes, and clones
+**VP Marketing, ID R&D/Mitek | genAI/convAI identity security**
+-	Launched three AI security products that protect from fraud, deepfakes, and clones
 -	Drove 50% ARR increase with leveled-up product marketing, PR, field marketing, content 
 -	Increased MQLs by 100%, SQLs by 50% with overhauled lead generation and metrics
-
 
 **VP Marketing, Quantifind Inc. | AI-powered risk intelligence SaaS fintech**
 - Built a full-stack marketing program and team from scratch as the first marketing hire
 - Rebranded and launched AI data science platform for entity risk AML/KYC intelligence
 
-
 **VP Marketing & Product, Aware Inc. | AI-powered biometrics software/SaaS**
-- Led marketing from biometrics nascency through hypergrowth and mass-market adoption
-- Grew $1M product line to a NASDAQ-listed biometrics leader with 15X revenue growth 
-- Successfully launched 20+ B2B and B2G products with an ROI-focused team of six
+- Led marketing and strategy from biometrics nascency through hypergrowth and mass-market adoption
+- Grew $1M product to a NASDAQ-listed biometrics leader with 20X revenue growth 
+- Successfully launched 20+ B2B/G products with an ROI-focused team of six
 
 ### Skills
 
