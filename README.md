@@ -11,9 +11,9 @@
 
 ### Achievement Highlights
 
-**COO/CMO (Fractional), Semi-Stealth Startup  |  AI GTM for GTM strategy automation and agility**
-- Executing GTM strategy and tactics in preparation for 25Q1 product launch of AI GTM GPT
-- Conceived and wrote foundational thought leadership white paper defining “Agile GTM Strategy”
+**COO/CMO (Fractional), Stealth Startup  |  genAI agent for GTM strategy automation and agility**
+- Executing GTM strategy and tactics for 25Q1 launch of genAI agent for accelerated, aligned GTM
+- Conceived and wrote foundational thought leadership white paper defining “Agile GTM”
 
 **VP Marketing, ID R&D/Mitek | genAI/convAI identity security**
 -	Launched three AI security products that protect from fraud, deepfakes, and clones
@@ -62,6 +62,7 @@
 ### Expertise
 - AI: Generative AI, Responsible AI, Conversational AI, AI Security
 - Biometrics: facial recognition, keystroke dynamics, behavioral biometrics, voice verification
+- Voice: biometrics, NLP, clone detection
 - Fraud detection: deepfake detection, voice clones, liveness detection, document fraud, spoofing
 - Data analytics: identity resolution, risk intelligence, knowledge graphs, relationship detection
 - Security: identity verification, mobile authentication, PKI, KYC/AML, digital onboarding
@@ -103,7 +104,7 @@
 ### Professional Experience
 
 #### Semi-Stealth Startup, Boston ####
-*Pre-seed company bringing to market a PLG AI agents to formulate an agile GTM strategy and align teams*
+*Pre-seed company bringing to market a PLG Gen AI agent to formulate an agile GTM strategy and align teams*
 
 **COO/CMO (Fractional)	July 2024 - present**
 -	Developed go-to-market and launch plan for this company’s first major product launch
@@ -180,7 +181,7 @@
 
 #### Linear Accelerator Engineer – Radiation Oncology Department | Fairfax Hospital
 - Assured minimal downtime and proper calibration and operation of $7 million worth of capital equipment
-- Created a software-based PM system that helped to significantly reduce unscheduled downtime
+- Created a software-based PM system that significantly reduced unscheduled downtime
 
 #### Field Engineer – Oncology Care Systems  |  Siemens Healthineers
 - Maintained linear accelerators and fostered customer relationships at cancer centers
@@ -201,8 +202,3 @@
  - [Finovate 2022 demonstration](https://finovate.com/videos/finovatefall-2022-id-rd/)
  - [Fraud detection Demonstration on ABC News, Washington](https://wjla.com/news/local/scammers-cloning-voices-ai-technology-artificial-intelligence-scam-fake-or-real-fraud-detect-id-rd-audio-signal-recording-computer-generated-speech-analyze-biometrics-device)
  - [Decoding the voice clones - ABC News, Washington](https://wjla.com/news/local/artificial-intelligence-ai-phone-scams-cloning-decode-washington-dc-conference-panel-id-r-and-d-dangers-security-concerns-voice-biometrics-fingerprint-bank-accounts-medical-records-personal-information-chatgpt-scammers)
-
-
-#### Animated Videos
- - [Knomi mobile biometric authentication - consumer](https://vimeo.com/250653024)
- - [Knomi mobile biometric authentication - enterprise](https://vimeo.com/322770856)
